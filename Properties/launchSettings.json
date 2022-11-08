@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "jaehee_fa": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7127",
+      "launchBrowser": false
+    }
+  }
+}
